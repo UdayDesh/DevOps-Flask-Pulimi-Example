@@ -1,0 +1,3 @@
+#Exclude VENV and PYCACHE files
+__pycache__
+venv
